@@ -43,8 +43,16 @@ body {
   color: #555;
 }
 #content {
-  background-size: cover;
   background-color: #e5e5e5;
+}
+#content th {
+  text-align: center;
+}
+table {
+  border: 1px solid black;
+  border-collapse: separate;
+  background-color: white;
+  padding: 30px;
 }
 #picture {
   position: relative;
@@ -53,6 +61,7 @@ body {
 #footer {
   background-color: #555555;
   height: 150px;
+  clear: both;
 }
 #footer h4 {
   color: white;
