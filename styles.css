@@ -42,6 +42,7 @@ body {
 }
 #picture {
   position: relative;
+  background-size: cover;
 }
 #footer {
   background-color: #555555;
