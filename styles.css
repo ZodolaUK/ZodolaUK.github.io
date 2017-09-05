@@ -53,6 +53,7 @@ table {
   border-collapse: separate;
   background-color: white;
   padding: 30px;
+  margin: auto;
 }
 #picture {
   position: relative;
